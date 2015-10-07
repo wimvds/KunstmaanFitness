@@ -1,0 +1,5 @@
+{
+    "require": {
+        "cleentfaar/slack": "~0.14"
+    }
+}
